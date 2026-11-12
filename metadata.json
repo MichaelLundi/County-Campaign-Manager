@@ -1,0 +1,6 @@
+{
+  "name": "County Campaign Manager",
+  "description": "Mobile-friendly campaign operations and field coordination platform for the Nairobi gubernatorial campaign.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
